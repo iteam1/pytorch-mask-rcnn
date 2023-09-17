@@ -3,6 +3,8 @@ train mask-rcnn framework pytorch
 
 # references
 
+https://github.com/meetps/pytorch-semseg
+
 https://github.com/roytseng-tw/Detectron.pytorch
 
 https://github.com/open-mmlab/mmdetection
